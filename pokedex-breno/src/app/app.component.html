@@ -1,0 +1,32 @@
+<div class="container">
+  <h1>Pokédex</h1>
+
+  <input
+    type="text"
+    [(ngModel)]="nomePokemon"
+    placeholder="Digite o nome do Pokémon"
+  />
+  <button (click)="buscarPokemon()">Buscar</button>
+
+  <div *ngIf="erro" class="erro">Pokémon não encontrado!</div>
+
+  <div *ngIf="dadosPokemon" class="card">
+    <h2>{{ dadosPokemon.name | titlecase }}</h2>
+
+    <div class="sprite">
+      <img
+        *ngIf="spritesAnimados.length"
+        ngSrc="spritesAnimados[spriteAtual]"
+        alt="Sprite animado">
+    </div>
+
+    <p><strong>Tipo(s):</strong>
+      <span *ngFor="let tipo of dadosPokemon.types; let last = last">
+        {{ tipo.type.name }}<span *ngIf="!last">, </span>
+      </span>
+    </p>
+
+    <p><strong>Altura:</strong> {{ dadosPokemon.height / 10 }} m</p>
+    <p><strong>Peso:</strong> {{ dadosPokemon.weight / 10 }} kg</p>
+  </div>
+</div>

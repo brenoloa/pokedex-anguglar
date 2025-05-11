@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d909bac9-ffc5-42da-a6f4-3e3e6746a3c7" name="Changes" comment="config projeto">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/src/app/app.config.server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/src/app/app.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/src/app/app.routes.server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/src/app/app.routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/src/main.server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/src/server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex-brenoloa/tsconfig.spec.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "brenoloa"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/brenoloa/pokedex-anguglar.git",
+    "accountId": "3580797b-8e17-4451-be7b-2a5dacb50c8d"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2wvXsiTxir9R3BvFRPI1BdPLgt6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.app.component.html.executor": "Debug",
+    "Node.js.app.component.ts.executor": "Run",
+    "Node.js.app.config.ts.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/breno/IdeaProjects/pokedex-angular/pokedex-breno",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\breno\\IdeaProjects\\pokedex-angular\\pokedex-brenoloa\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="pokedex-angular" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="pokedex-angular" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d909bac9-ffc5-42da-a6f4-3e3e6746a3c7" name="Changes" comment="" />
+      <created>1746923229954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746923229954</updated>
+      <workItem from="1746923231355" duration="1706000" />
+    </task>
+    <task id="LOCAL-00001" summary="config projeto">
+      <option name="closed" value="true" />
+      <created>1746923511165</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746923511165</updated>
+    </task>
+    <task id="LOCAL-00002" summary="config projeto">
+      <option name="closed" value="true" />
+      <created>1746923539012</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746923539012</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="config projeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="config projeto" />
+  </component>
+</project>
